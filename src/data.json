@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "image": "./img/icon1.png",
+        "naslov": "1. Instalirajte aplikaciju",
+        "opis": "Nakon instalacije naše aplikacije imate mogučnost koristiti naše servise gdje god poželite uz pomoć wifi konekcije! "
+    },
+    {
+        "id": 2,
+        "image": "./img/icon2.png",
+        "naslov": "2. Loginujte se u aplikaciju",
+        "opis": "Unesite vaše lične podatke u aplikaciju kako bi dobili pristup svihžm dokumentima koje zahtjevate."
+    },
+    {
+        "id": 3,
+        "image": "./img/icon3.png",
+        "naslov": "3. dozvolite da aplikacija koristi podatke",
+        "opis": "Jednostavnim klikom dopuštate aplikaciji da koristi vaše podatke kako bi se vršila obrada."
+    },
+    {
+        "id": 4,
+        "image": "./img/icon4.png",
+        "naslov": "4. Iskoristite sve funkcije",
+        "opis": "Uživajte u našim uslugama i uštedite vrijeme."
+    }
+]
